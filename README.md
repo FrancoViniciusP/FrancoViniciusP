@@ -4,7 +4,7 @@ Brazilian software developer student living in France for some months.
 
 ### 💬 Ask me about
 
-JavaScript, React, CSS, Engineering, Beach Volley 😄 and Hawaiian Canoe :canoe:.
+JavaScript, React, CSS, Node.Js, MySQL, Engineering and Hawaiian Canoe :canoe:.
 
 ### 📫 How to reach me 
 
