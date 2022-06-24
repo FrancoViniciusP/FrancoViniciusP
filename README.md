@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Vinicius
 
-Brazilian software developer student living in France for some months.
+Brazilian software developer student living in France for a few months.
 
 ### 💬 Ask me about
 
